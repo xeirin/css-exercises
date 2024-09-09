@@ -1,11 +1,11 @@
 
 .odd {
-    background-color: pink;
+    background-color: #ffc0cb;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
 #blue {
-    color: blue;
+    color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
@@ -14,7 +14,7 @@
 }
 
 #green {
-    background-color: lightgreen;
+    background-color: #90EE90;
     font-size: 24px;
     font-weight: bold;
 }
