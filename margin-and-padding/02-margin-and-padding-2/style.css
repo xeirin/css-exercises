@@ -12,6 +12,7 @@ body {
 
 .title {
   background: #e3f4ff;
+  margin-top: 15px;
 }
 
 .content {
@@ -31,6 +32,10 @@ button {
   margin: 0px auto;
 }
 
-.title, .content {
+.title, .content, .button-container {
   padding: 10px;
+}
+
+.title, .content {
+  margin-bottom: 10px;
 }
